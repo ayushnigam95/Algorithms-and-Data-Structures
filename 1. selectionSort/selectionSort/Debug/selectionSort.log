@@ -1,0 +1,3 @@
+﻿  selectionSort.cpp
+h:\ds and algo workspace\selectionsort\selectionsort\selectionsort.cpp(27): warning C4715: 'getIndex': not all control paths return a value
+  selectionSort.vcxproj -> H:\DS and Algo Workspace\selectionSort\Debug\selectionSort.exe
