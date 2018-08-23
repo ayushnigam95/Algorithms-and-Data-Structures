@@ -1,9 +1,14 @@
 ﻿// selectionSort.cpp : Defines the entry point for the console application.
-//One advantage of selection sort over insertion sort,
-//is that the number of writes (swaps) is in O(n), 
-//while in insertion sort it is in O(n^2). 
-//This may be important if you are sorting on Flash memory, 
-//for example, because writes reduce the lifespan of Flash memory.
+
+// For SMALL ARRAYS (less than 20-30 elements),
+// both insertion sort and selection sort are typically faster than the O(n*logn) alternatives.
+
+
+// One advantage of selection sort over insertion sort,
+// is that the number of writes (swaps) is in O(n), 
+// while in insertion sort it is in O(n^2). 
+// This may be important if you are sorting on Flash memory, 
+// for example, because writes reduce the lifespan of Flash memory.
 
 //USES:
 //Minimum number of swaps while sorting the array
